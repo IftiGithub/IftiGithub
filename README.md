@@ -12,7 +12,7 @@
 ### ⚡ Quick Summary
 I am a full-stack developer based in Bangladesh, dedicated to crafting efficient and scalable digital experiences. With a background rooted in C/C++, I bring a strong logic-first approach to modern JavaScript frameworks.
 
-[**Explore My Projects**](https://github.com/iftigithub?tab=repositories) • [**Hire Me**](mailto:minhajuddinifti2094944@gmail.com)
+[**Explore My Projects**](#-featured-projects) • [**Hire Me**](mailto:minhajuddinifti2094944@gmail.com)
 
 </div>
 
@@ -37,6 +37,16 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project One** | A comprehensive description of your best MERN application. | `React` `Node` `MongoDB` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub) |
+| **Project Two** | A scalable E-commerce solution or Dashboard. | `Next.js` `Tailwind` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub) |
+| **Project Three** | A unique mobile app or open-source tool. | `Flutter` `Firebase` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub) |
 
 ---
 
@@ -72,5 +82,11 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 </p>
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br />
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=iftigithub&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
+
 </div>

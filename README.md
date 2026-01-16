@@ -42,12 +42,6 @@ With a background rooted in C/C++, I bring a strong logic-first approach to mode
 ---
 
 ## 📈 Activity & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftigithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Minhaj's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftigithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
 </p>

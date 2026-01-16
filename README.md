@@ -10,10 +10,9 @@
 ---
 
 ### ⚡ Quick Summary
-I am a full-stack developer based in Bangladesh, dedicated to crafting efficient and scalable digital experiences. 
-With a background rooted in C/C++, I bring a strong logic-first approach to modern JavaScript frameworks.
+I am a full-stack developer based in Bangladesh, dedicated to crafting efficient and scalable digital experiences. With a background rooted in C/C++, I bring a strong logic-first approach to modern JavaScript frameworks.
 
-[**Explore My Projects**](https://github.com/iftigithub?tab=repositories) • [**Hire Me**](mailto:minhajuddinifti2094944@gmail.com?subject=Inquiry%20from%20GitHub)
+[**Explore My Projects**](https://github.com/iftigithub?tab=repositories) • [**Hire Me**](mailto:minhajuddinifti2094944@gmail.com)
 
 </div>
 
@@ -21,29 +20,34 @@ With a background rooted in C/C++, I bring a strong logic-first approach to mode
 
 ### 🌐 Frontend & UI/UX
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
 </p>
 
 ### 📱 Mobile & Other
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,postman,vscode" />
 </p>
 
 ### 🧠 Core Foundations
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </p>
 
 ---
 
 ## 📈 Activity & Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iftigithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Minhaj's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftigithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -59,8 +63,12 @@ With a background rooted in C/C++, I bring a strong logic-first approach to mode
 ## 🌐 Get in Touch
 
 <p align="center">
-<a href="https://linkedin.com/in/minhaj-uddin-ifti/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
-<a href="mailto:minhajuddinifti2094944@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" /></a>
+<a href="https://linkedin.com/in/minhaj-uddin-ifti/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+<a href="mailto:minhajuddinifti2094944@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
 </p>
 
 <div align="center">

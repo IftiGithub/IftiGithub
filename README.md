@@ -61,7 +61,7 @@ With a background rooted in C/C++, I bring a strong logic-first approach to mode
 <p align="center">
 <a href="https://linkedin.com/in/minhaj-uddin-ifti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Minhaj" height="30" width="40" /></a>
 <a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Minhaj" height="30" width="40" /></a>
-<a href="mailto:minhajuddinifti2094944@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Minhaj" height="30" width="40" /></a>
+<a href="mailto:minhajuddinifti2094944@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" /></a>
 </p>
 
 <div align="center">

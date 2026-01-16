@@ -13,7 +13,7 @@
 I am a full-stack developer based in Bangladesh, dedicated to crafting efficient and scalable digital experiences. 
 With a background rooted in C/C++, I bring a strong logic-first approach to modern JavaScript frameworks.
 
-[**Explore My Projects**](https://github.com/iftigithub?tab=repositories) • [**Hire Me**](mailto:your-email@gmail.com?subject=Inquiry%20from%20GitHub)
+[**Explore My Projects**](https://github.com/iftigithub?tab=repositories) • [**Hire Me**](mailto:minhajuddinifti2094944@gmail.com?subject=Inquiry%20from%20GitHub)
 
 </div>
 

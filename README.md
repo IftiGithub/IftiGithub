@@ -46,7 +46,7 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 | :--- | :--- | :--- | :--- |
 | **Contest Hub Client** | A comprehensive description of your best MERN application. | `React` `Node` `MongoDB` | [🔗 Live](https://contest-hub-485e5.web.app/) / [💻 Repo](https://github.com/iftigithub/contest-hub-client) |
 | **Artify Client** | A scalable E-commerce solution or Dashboard. | `Next.js` `Tailwind` | [🔗 Live](https://artify-90fa0.web.app/) / [💻 Repo](https://github.com/iftigithub/Artify-Client) |
-| **Hero Apps** | A unique mobile app or open-source tool. | `Flutter` `Firebase` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub) |
+| **Hero Apps** | A unique mobile app or open-source tool. | `Flutter` `Firebase` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub/Hero-Apps) |
 
 ---
 

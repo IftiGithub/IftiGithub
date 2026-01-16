@@ -51,15 +51,10 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 ---
 
 ## 📈 Activity & Insights
+---
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iftigithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Minhaj's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftigithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
 ---
 
 ## 👨‍💻 What I'm Up To
@@ -86,7 +81,4 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br />
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=iftigithub&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
-
 </div>

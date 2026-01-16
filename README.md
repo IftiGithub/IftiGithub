@@ -20,12 +20,12 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 
 ### 🌐 Frontend & UI/UX
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 📱 Mobile & Other

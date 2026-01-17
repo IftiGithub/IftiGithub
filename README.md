@@ -3,7 +3,7 @@
 # 🚀 Hi there, I'm Minhaj Uddin
 **MERN Stack Enthusiast | Problem Solver | Open Source Contributor**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minhaj%20Uddin&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://i.postimg.cc/q7JDxZJK/profile-Banner.jpg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47A248&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Specializing+in+MERN+Stack;Passionate+about+Cloud+Architecture;Solving+Real-World+Problems)](https://git.io/typing-svg)
 

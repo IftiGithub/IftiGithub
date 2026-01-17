@@ -62,19 +62,8 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 
 ## 📊 Activities & Insights
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IftiGithub&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=IftiGithub&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IftiGithub&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IftiGithub&layout=compact&theme=tokyonight" />
-
-</div>
 
 
 ---

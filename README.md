@@ -51,11 +51,23 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 ---
 
 ## 📈 Activity & Insights
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
----
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iftigithub&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Minhaj's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftigithub&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Minhaj's Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftigithub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="100%" />
+
+</div>
 
 ## 👨‍💻 What I'm Up To
 - 🔭 **Currently:** Developing high-performance MERN applications.

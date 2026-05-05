@@ -46,9 +46,9 @@ I am a full-stack developer based in Bangladesh, dedicated to crafting efficient
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Contest Hub** | ContestHub is a platform for creative contests where users can participate, submit tasks, and compete for prizes. Creators can create contests, and admins can approve contests. | `React` `Node` `MongoDB` `Firebase` | [🔗 Live](https://contest-hub-485e5.web.app/) / [💻 Repo](https://github.com/iftigithub/contest-hub-client) |
-| **Artify** | Artify is a creative web platform built with React, providing users with authentication, personalized favorites, and a modern responsive UI. | `React` `Tailwind` `MongoDB` `Firebase` | [🔗 Live](https://artify-90fa0.web.app/) / [💻 Repo](https://github.com/iftigithub/Artify-Client) |
-| **Hero Apps** | A unique mobile app or open-source tool. | `React` `Tailwind` | [🔗 Live](https://your-link.com) / [💻 Repo](https://github.com/iftigithub/Hero-Apps) |
+| **Contest Hub** | ContestHub is a platform for creative contests where users can participate, submit tasks, and compete for prizes. Creators can create contests, and admins can approve contests. | `React` `Node` `MongoDB` `Node` `ExpressJS` `Stripe` `Firebase` | [🔗 Live](https://contest-hub-485e5.web.app/) / [💻 Repo](https://github.com/iftigithub/contest-hub-client) |
+| **Artify** | A role-based digital art community where users explore, like, comment, follow artists; artists create and manage art-
+works and blogs; admins manages access control and contents. | `React` `Tailwind` `MongoDB` `Firebase` | [🔗 Live](https://artify-90fa0.web.app/) / [💻 Repo](https://github.com/iftigithub/Artify-Client) |
 
 ---
 
